@@ -1,0 +1,27 @@
+page {  
+  display: block;  
+  min-height: 100%;  
+  background-color:yellow;  
+}  
+.feibiao-button{
+  background-color:crimson;
+}
+.ww-button{
+  background-color:crimson;
+}
+
+.wwww-button{
+  background-color:crimson;
+}
+.saolei-button{
+  background-color:crimson;
+}
+.shishe-button{
+  background-color:crimson;
+}
+.fanpai-button{
+  background-color:crimson;
+}
+.snake-button{
+  background-color:crimson;
+}

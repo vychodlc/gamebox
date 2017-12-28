@@ -1,0 +1,31 @@
+
+
+
+<view class="2048">
+<text>小哥哥小姐姐快来玩呀~~~~~~~~~~</text>
+<button  bindtap="2048" class="wwww-button">2^n的无尽之旅</button>
+</view>
+<view class="24">
+<text>小哥哥小姐姐快来玩呀~~~~~~~~~</text>
+<button  bindtap="24" class="ww-button">我的算术真的菜</button>
+</view>
+<view class="feibiao">
+<text>小哥哥小姐姐快来玩呀~~~~~~~~~</text>
+<button  bindtap="feibiao" class="feibiao-button">我躲我躲我躲躲躲</button>
+</view>
+<view class="saolei">
+<text>小哥哥小姐姐快来玩呀~~~~~~~~</text>
+<button  bindtap="saolei" class="saolei-button">这些小雷是炸不死我的</button>
+</view>
+<view class="shishe">
+<text>小哥哥小姐姐快来玩呀~~~~~~~~~</text>
+<button  bindtap="shishe" class="shishe-button">火眼金睛</button>
+</view>
+<view class="fanpai">
+<text>小哥哥小姐姐快来玩呀~~~~~~~~~~</text>
+<button  bindtap="fanpai" class="fanpai-button">等等，我上一张是什么来着？</button>
+</view>
+<view class="shishe">
+<text>小哥哥小姐姐快来玩呀~~~~~~~~~</text>
+<button  bindtap="snake" class="snake-button">我是一条蛇🐍</button>
+</view>
